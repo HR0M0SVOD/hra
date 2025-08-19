@@ -1,0 +1,5 @@
+{
+  "name": "Hra Trezor",
+  "description": "Uhodni kód k otevření trezoru odpovědí na otázky.",
+  "requestFramePermissions": []
+}
